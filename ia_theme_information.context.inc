@@ -121,7 +121,6 @@ function ia_theme_information_context_default_contexts() {
           'weight' => '-10',
         ),
       ),
-      'layout' => 'default_inner',
     ),
     'theme_html' => array(
       'class' => 'developer',
