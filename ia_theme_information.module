@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IA Theme Information feature.
+ */
+
+include_once 'ia_theme_information.features.inc';
